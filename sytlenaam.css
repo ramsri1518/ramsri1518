@@ -1,0 +1,70 @@
+body{
+    background-image: url(https://i.ytimg.com/vi/tlkYWDa606M/maxresdefault.jpg);
+    background-repeat: repeat-x;
+     border-image-outset: 100%;
+border-color: green;
+border:3px;
+
+
+
+}
+.one{
+    color: white;
+}
+h1{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times,serif;
+}
+h2{
+    margin-top: 70px;
+}
+.two{text-align: center;
+
+}
+H3{
+    text-align: center;
+}
+
+.three{
+    background-color: goldenrod;
+    width: auto;
+    height: 1250px;
+    border-bottom: 40%;
+}
+
+.five {
+    background-color: gray;
+    height: 500px;
+    width: auto; 
+    margin-right: 50%;
+}
+
+
+.eight{
+    margin: auto;
+    position: absolute;
+    left: 1000px;
+    background-color: thistle;
+}
+h1{
+   margin: auto;
+   margin-bottom: 20px;
+}
+.ninth{
+    border:2px dobule solid red;
+    background-color: blueviolet;  
+    margin: auto;
+    color: white;
+    height: 80px;
+
+}
+.seven{
+background-color: yellow;
+
+
+}
+.ten{
+    text-shadow: white 10px 30px 30px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
